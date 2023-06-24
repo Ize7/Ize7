@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ize7
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Web dev and back end
 - learning
 
 <!---
